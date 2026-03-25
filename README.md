@@ -5,10 +5,13 @@
 </div>
 
 <p align="center">
+  <a href="https://t.me/mirbekaqmuratov" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
   <a href="https://linkedin.com/in/AQMURATOV_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="nmizida@gmail.com" target="_blank">
+  <a href="nmizida@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
